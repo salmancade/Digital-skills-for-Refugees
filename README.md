@@ -1,4 +1,4 @@
-#Mirror Initiative-Digital skills for Refugees
+# Mirror Initiative-Digital skills for Refugees
 
 This project focuses on providing digital skills for the refugees in Dadaab. 
 
@@ -17,7 +17,7 @@ Thanks for your interest in contributing to Mirror Initiatve! There are many way
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL](salimfaris15@gmail.com)
 
 ## MozSprint
 
